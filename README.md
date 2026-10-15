@@ -1,3 +1,4 @@
+
 ---
 title: A
 emoji: 📊
@@ -10,3 +11,6 @@ short_description: a
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# bear-classifier
+Classification of different types of bear 
+
